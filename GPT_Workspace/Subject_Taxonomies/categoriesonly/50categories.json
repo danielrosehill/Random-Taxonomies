@@ -1,0 +1,254 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "AI & Machine Learning",
+      "subcategories": []
+    },
+    {
+      "id": 2,
+      "name": "Art & Design",
+      "subcategories": []
+    },
+    {
+      "id": 3,
+      "name": "Automotive & Transport",
+      "subcategories": []
+    },
+    {
+      "id": 4,
+      "name": "Beauty & Fashion",
+      "subcategories": []
+    },
+    {
+      "id": 5,
+      "name": "Business & Finance",
+      "subcategories": []
+    },
+    {
+      "id": 6,
+      "name": "Communication & Writing",
+      "subcategories": []
+    },
+    {
+      "id": 7,
+      "name": "Cooking & Recipes",
+      "subcategories": []
+    },
+    {
+      "id": 8,
+      "name": "Creative Writing",
+      "subcategories": []
+    },
+    {
+      "id": 9,
+      "name": "Cryptocurrencies & Blockchain",
+      "subcategories": []
+    },
+    {
+      "id": 10,
+      "name": "DIY & Crafts",
+      "subcategories": []
+    },
+    {
+      "id": 11,
+      "name": "Data Science & Analytics",
+      "subcategories": []
+    },
+    {
+      "id": 12,
+      "name": "Digital Marketing",
+      "subcategories": []
+    },
+    {
+      "id": 13,
+      "name": "E-commerce & Online Business",
+      "subcategories": []
+    },
+    {
+      "id": 14,
+      "name": "Education & Learning",
+      "subcategories": []
+    },
+    {
+      "id": 15,
+      "name": "Entertainment & Media",
+      "subcategories": []
+    },
+    {
+      "id": 16,
+      "name": "Environment & Sustainability",
+      "subcategories": []
+    },
+    {
+      "id": 17,
+      "name": "Fitness & Exercise",
+      "subcategories": []
+    },
+    {
+      "id": 18,
+      "name": "Food & Nutrition",
+      "subcategories": []
+    },
+    {
+      "id": 19,
+      "name": "Gaming & Esports",
+      "subcategories": []
+    },
+    {
+      "id": 20,
+      "name": "Gardening & Horticulture",
+      "subcategories": []
+    },
+    {
+      "id": 21,
+      "name": "Health & Wellness",
+      "subcategories": []
+    },
+    {
+      "id": 22,
+      "name": "History & Culture",
+      "subcategories": []
+    },
+    {
+      "id": 23,
+      "name": "Home Improvement",
+      "subcategories": []
+    },
+    {
+      "id": 24,
+      "name": "Interior Design & Architecture",
+      "subcategories": []
+    },
+    {
+      "id": 25,
+      "name": "Investing & Personal Finance",
+      "subcategories": []
+    },
+    {
+      "id": 26,
+      "name": "Languages & Linguistics",
+      "subcategories": []
+    },
+    {
+      "id": 27,
+      "name": "Lifestyle & Hobbies",
+      "subcategories": []
+    },
+    {
+      "id": 28,
+      "name": "Meditation & Mindfulness",
+      "subcategories": []
+    },
+    {
+      "id": 29,
+      "name": "Music & Audio Production",
+      "subcategories": []
+    },
+    {
+      "id": 30,
+      "name": "News & Current Events",
+      "subcategories": []
+    },
+    {
+      "id": 31,
+      "name": "Parenting & Family",
+      "subcategories": []
+    },
+    {
+      "id": 32,
+      "name": "Personal Development",
+      "subcategories": []
+    },
+    {
+      "id": 33,
+      "name": "Pets & Animals",
+      "subcategories": []
+    },
+    {
+      "id": 34,
+      "name": "Photography & Videography",
+      "subcategories": []
+    },
+    {
+      "id": 35,
+      "name": "Productivity & Organization",
+      "subcategories": []
+    },
+    {
+      "id": 36,
+      "name": "Psychology & Mental Health",
+      "subcategories": []
+    },
+    {
+      "id": 37,
+      "name": "Real Estate & Property",
+      "subcategories": []
+    },
+    {
+      "id": 38,
+      "name": "Religion & Spirituality",
+      "subcategories": []
+    },
+    {
+      "id": 39,
+      "name": "Science & Technology",
+      "subcategories": []
+    },
+    {
+      "id": 40,
+      "name": "Self-Care & Wellness",
+      "subcategories": []
+    },
+    {
+      "id": 41,
+      "name": "Social Media & Influencing",
+      "subcategories": []
+    },
+    {
+      "id": 42,
+      "name": "Sports & Athletics",
+      "subcategories": []
+    },
+    {
+      "id": 43,
+      "name": "Startup & Entrepreneurship",
+      "subcategories": []
+    },
+    {
+      "id": 44,
+      "name": "Sustainability & Green Living",
+      "subcategories": []
+    },
+    {
+      "id": 45,
+      "name": "Technology & Development",
+      "subcategories": []
+    },
+    {
+      "id": 46,
+      "name": "Travel & Exploration",
+      "subcategories": []
+    },
+    {
+      "id": 47,
+      "name": "UX/UI Design",
+      "subcategories": []
+    },
+    {
+      "id": 48,
+      "name": "Virtual Reality & Augmented Reality",
+      "subcategories": []
+    },
+    {
+      "id": 49,
+      "name": "Web Development & Coding",
+      "subcategories": []
+    },
+    {
+      "id": 50,
+      "name": "Writing & Publishing",
+      "subcategories": []
+    }
+  ]
+}

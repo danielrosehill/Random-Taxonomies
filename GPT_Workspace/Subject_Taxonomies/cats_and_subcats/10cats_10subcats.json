@@ -1,0 +1,164 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Art & Design",
+      "subcategories": [
+        { "id": 1, "name": "Graphic Design" },
+        { "id": 2, "name": "Illustration" },
+        { "id": 3, "name": "Photography" },
+        { "id": 4, "name": "Fashion Design" },
+        { "id": 5, "name": "Interior Design" },
+        { "id": 6, "name": "Web Design" },
+        { "id": 7, "name": "Typography" },
+        { "id": 8, "name": "Art History" },
+        { "id": 9, "name": "3D Modeling" },
+        { "id": 10, "name": "Animation" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Business & Finance",
+      "subcategories": [
+        { "id": 1, "name": "Investing" },
+        { "id": 2, "name": "Entrepreneurship" },
+        { "id": 3, "name": "Marketing" },
+        { "id": 4, "name": "Accounting" },
+        { "id": 5, "name": "Sales" },
+        { "id": 6, "name": "Economics" },
+        { "id": 7, "name": "Real Estate" },
+        { "id": 8, "name": "Personal Finance" },
+        { "id": 9, "name": "E-commerce" },
+        { "id": 10, "name": "Business Strategy" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Communication & Writing",
+      "subcategories": [
+        { "id": 1, "name": "Creative Writing" },
+        { "id": 2, "name": "Copywriting" },
+        { "id": 3, "name": "Public Speaking" },
+        { "id": 4, "name": "Content Marketing" },
+        { "id": 5, "name": "Technical Writing" },
+        { "id": 6, "name": "Journalism" },
+        { "id": 7, "name": "Speech Writing" },
+        { "id": 8, "name": "Email Communication" },
+        { "id": 9, "name": "Blogging" },
+        { "id": 10, "name": "Editing & Proofreading" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Education & Learning",
+      "subcategories": [
+        { "id": 1, "name": "Teaching" },
+        { "id": 2, "name": "Language Learning" },
+        { "id": 3, "name": "Online Courses" },
+        { "id": 4, "name": "STEM Education" },
+        { "id": 5, "name": "Special Education" },
+        { "id": 6, "name": "Curriculum Development" },
+        { "id": 7, "name": "Adult Education" },
+        { "id": 8, "name": "Educational Technology" },
+        { "id": 9, "name": "Test Preparation" },
+        { "id": 10, "name": "Tutoring" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Entertainment & Media",
+      "subcategories": [
+        { "id": 1, "name": "Film & TV" },
+        { "id": 2, "name": "Music Production" },
+        { "id": 3, "name": "Podcasting" },
+        { "id": 4, "name": "Gaming" },
+        { "id": 5, "name": "Event Planning" },
+        { "id": 6, "name": "Social Media" },
+        { "id": 7, "name": "Photography" },
+        { "id": 8, "name": "Live Streaming" },
+        { "id": 9, "name": "Graphic Design" },
+        { "id": 10, "name": "Writing & Publishing" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Health & Wellness",
+      "subcategories": [
+        { "id": 1, "name": "Fitness" },
+        { "id": 2, "name": "Nutrition" },
+        { "id": 3, "name": "Mental Health" },
+        { "id": 4, "name": "Yoga" },
+        { "id": 5, "name": "Meditation" },
+        { "id": 6, "name": "Alternative Medicine" },
+        { "id": 7, "name": "Personal Training" },
+        { "id": 8, "name": "Diet & Weight Loss" },
+        { "id": 9, "name": "Physical Therapy" },
+        { "id": 10, "name": "Holistic Health" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Lifestyle & Hobbies",
+      "subcategories": [
+        { "id": 1, "name": "Travel" },
+        { "id": 2, "name": "Cooking" },
+        { "id": 3, "name": "Gardening" },
+        { "id": 4, "name": "DIY Crafts" },
+        { "id": 5, "name": "Pet Care" },
+        { "id": 6, "name": "Photography" },
+        { "id": 7, "name": "Home Improvement" },
+        { "id": 8, "name": "Fashion & Beauty" },
+        { "id": 9, "name": "Gaming" },
+        { "id": 10, "name": "Fitness" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Productivity & Organization",
+      "subcategories": [
+        { "id": 1, "name": "Time Management" },
+        { "id": 2, "name": "Task Management" },
+        { "id": 3, "name": "Work-Life Balance" },
+        { "id": 4, "name": "Personal Development" },
+        { "id": 5, "name": "Project Management" },
+        { "id": 6, "name": "Minimalism" },
+        { "id": 7, "name": "Decluttering" },
+        { "id": 8, "name": "Habit Building" },
+        { "id": 9, "name": "Goal Setting" },
+        { "id": 10, "name": "Efficiency Tools" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Technology & Development",
+      "subcategories": [
+        { "id": 1, "name": "Software Development" },
+        { "id": 2, "name": "Web Development" },
+        { "id": 3, "name": "Mobile App Development" },
+        { "id": 4, "name": "Artificial Intelligence" },
+        { "id": 5, "name": "Blockchain" },
+        { "id": 6, "name": "Cybersecurity" },
+        { "id": 7, "name": "Cloud Computing" },
+        { "id": 8, "name": "Internet of Things" },
+        { "id": 9, "name": "Data Science" },
+        { "id": 10, "name": "DevOps" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Travel & Exploration",
+      "subcategories": [
+        { "id": 1, "name": "Adventure Travel" },
+        { "id": 2, "name": "Cultural Tourism" },
+        { "id": 3, "name": "Eco-Tourism" },
+        { "id": 4, "name": "Budget Travel" },
+        { "id": 5, "name": "Luxury Travel" },
+        { "id": 6, "name": "Backpacking" },
+        { "id": 7, "name": "Solo Travel" },
+        { "id": 8, "name": "Family Travel" },
+        { "id": 9, "name": "Travel Photography" },
+        { "id": 10, "name": "Destination Guides" }
+      ]
+    }
+  ]
+}

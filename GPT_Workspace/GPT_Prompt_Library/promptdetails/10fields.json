@@ -1,0 +1,67 @@
+{
+    "prompt_library_metadata": {
+      "fields": [
+        {
+          "id": 1,
+          "name": "prompt_id",
+          "type": "string",
+          "description": "A unique identifier for the prompt."
+        },
+        {
+          "id": 2,
+          "name": "prompt_text",
+          "type": "text",
+          "description": "The text of the prompt itself."
+        },
+        {
+          "id": 3,
+          "name": "category",
+          "type": "string",
+          "description": "The category or subject area the prompt relates to."
+        },
+        {
+          "id": 4,
+          "name": "creation_date",
+          "type": "date",
+          "description": "The date when the prompt was created or added to the library."
+        },
+        {
+          "id": 5,
+          "name": "last_used_date",
+          "type": "date",
+          "description": "The most recent date the prompt was used."
+        },
+        {
+          "id": 6,
+          "name": "author",
+          "type": "string",
+          "description": "The person or system that created the prompt."
+        },
+        {
+          "id": 7,
+          "name": "usage_count",
+          "type": "integer",
+          "description": "The number of times the prompt has been used."
+        },
+        {
+          "id": 8,
+          "name": "related_prompts",
+          "type": "array",
+          "description": "A list of related prompts or variations."
+        },
+        {
+          "id": 9,
+          "name": "tags",
+          "type": "array",
+          "description": "Keywords or tags associated with the prompt for easy searching."
+        },
+        {
+          "id": 10,
+          "name": "prompt_source",
+          "type": "string",
+          "description": "The source of the prompt, such as an external library, original creation, or adaptation."
+        }
+      ]
+    }
+  }
+  

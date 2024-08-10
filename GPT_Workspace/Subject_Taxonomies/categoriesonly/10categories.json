@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Art & Design",
+      "subcategories": []
+    },
+    {
+      "id": 2,
+      "name": "Business & Finance",
+      "subcategories": []
+    },
+    {
+      "id": 3,
+      "name": "Communication & Writing",
+      "subcategories": []
+    },
+    {
+      "id": 4,
+      "name": "Education & Learning",
+      "subcategories": []
+    },
+    {
+      "id": 5,
+      "name": "Entertainment & Media",
+      "subcategories": []
+    },
+    {
+      "id": 6,
+      "name": "Health & Wellness",
+      "subcategories": []
+    },
+    {
+      "id": 7,
+      "name": "Lifestyle & Hobbies",
+      "subcategories": []
+    },
+    {
+      "id": 8,
+      "name": "Productivity & Organization",
+      "subcategories": []
+    },
+    {
+      "id": 9,
+      "name": "Technology & Development",
+      "subcategories": []
+    },
+    {
+      "id": 10,
+      "name": "Travel & Exploration",
+      "subcategories": []
+    }
+  ]
+}

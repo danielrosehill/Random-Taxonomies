@@ -1,6 +1,6 @@
-# Daniel's Random Taxonomy Fiefdom
+# Taxonomy Collections
 
-Taxonomies are boring but super useful in organising data and storing information.
+Taxonomies are super useful in organising data and storing information.
 
 I created this repository to store taxonomies that I generate for various purposes (lately, the purpose is often creating organisational structures for organising custom GPTs and GPT outputs).
 

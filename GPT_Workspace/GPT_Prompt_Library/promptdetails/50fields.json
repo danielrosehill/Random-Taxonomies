@@ -1,0 +1,294 @@
+{
+  "prompt_library_metadata": {
+    "fields": [
+      {
+        "id": 1,
+        "name": "prompt_id",
+        "type": "string",
+        "description": "A unique identifier for the prompt."
+      },
+      {
+        "id": 2,
+        "name": "prompt_text",
+        "type": "text",
+        "description": "The text of the prompt itself."
+      },
+      {
+        "id": 3,
+        "name": "category",
+        "type": "string",
+        "description": "The category or subject area the prompt relates to."
+      },
+      {
+        "id": 4,
+        "name": "creation_date",
+        "type": "date",
+        "description": "The date when the prompt was created or added to the library."
+      },
+      {
+        "id": 5,
+        "name": "last_used_date",
+        "type": "date",
+        "description": "The most recent date the prompt was used."
+      },
+      {
+        "id": 6,
+        "name": "author",
+        "type": "string",
+        "description": "The person or system that created the prompt."
+      },
+      {
+        "id": 7,
+        "name": "usage_count",
+        "type": "integer",
+        "description": "The number of times the prompt has been used."
+      },
+      {
+        "id": 8,
+        "name": "related_prompts",
+        "type": "array",
+        "description": "A list of related prompts or variations."
+      },
+      {
+        "id": 9,
+        "name": "tags",
+        "type": "array",
+        "description": "Keywords or tags associated with the prompt for easy searching."
+      },
+      {
+        "id": 10,
+        "name": "prompt_source",
+        "type": "string",
+        "description": "The source of the prompt, such as an external library, original creation, or adaptation."
+      },
+      {
+        "id": 11,
+        "name": "prompt_type",
+        "type": "string",
+        "description": "The type of prompt, e.g., instructional, creative, technical."
+      },
+      {
+        "id": 12,
+        "name": "language",
+        "type": "string",
+        "description": "The language in which the prompt is written."
+      },
+      {
+        "id": 13,
+        "name": "intended_audience",
+        "type": "string",
+        "description": "The target audience for the prompt."
+      },
+      {
+        "id": 14,
+        "name": "output_format",
+        "type": "string",
+        "description": "The expected output format from the prompt, e.g., text, JSON."
+      },
+      {
+        "id": 15,
+        "name": "difficulty_level",
+        "type": "string",
+        "description": "The complexity or difficulty level of the prompt."
+      },
+      {
+        "id": 16,
+        "name": "input_length",
+        "type": "integer",
+        "description": "The length of the prompt input, typically in characters or words."
+      },
+      {
+        "id": 17,
+        "name": "output_length",
+        "type": "integer",
+        "description": "The expected length of the generated output."
+      },
+      {
+        "id": 18,
+        "name": "version",
+        "type": "string",
+        "description": "The version number of the prompt, if applicable."
+      },
+      {
+        "id": 19,
+        "name": "associated_gpt",
+        "type": "string",
+        "description": "The specific GPT model or version the prompt is designed for."
+      },
+      {
+        "id": 20,
+        "name": "example_output",
+        "type": "text",
+        "description": "An example of the expected output from the prompt."
+      },
+      {
+        "id": 21,
+        "name": "prompt_intent",
+        "type": "string",
+        "description": "The purpose or intent behind the prompt."
+      },
+      {
+        "id": 22,
+        "name": "context_required",
+        "type": "boolean",
+        "description": "Indicates whether the prompt requires specific context to function correctly."
+      },
+      {
+        "id": 23,
+        "name": "sensitivity_level",
+        "type": "string",
+        "description": "The level of sensitivity or caution required when using the prompt."
+      },
+      {
+        "id": 24,
+        "name": "bias_check",
+        "type": "text",
+        "description": "Details of any bias checks performed on the prompt."
+      },
+      {
+        "id": 25,
+        "name": "ethical_considerations",
+        "type": "text",
+        "description": "Ethical considerations related to the prompt."
+      },
+      {
+        "id": 26,
+        "name": "response_time",
+        "type": "string",
+        "description": "The expected response time for generating output using the prompt."
+      },
+      {
+        "id": 27,
+        "name": "related_topics",
+        "type": "array",
+        "description": "Topics or themes related to the prompt."
+      },
+      {
+        "id": 28,
+        "name": "usage_limitations",
+        "type": "text",
+        "description": "Any limitations on how the prompt should be used."
+      },
+      {
+        "id": 29,
+        "name": "recommended_settings",
+        "type": "text",
+        "description": "Recommended settings or configurations for using the prompt."
+      },
+      {
+        "id": 30,
+        "name": "documentation_link",
+        "type": "string",
+        "description": "Link to documentation or guidelines for the prompt."
+      },
+      {
+        "id": 31,
+        "name": "training_data_source",
+        "type": "string",
+        "description": "The source of training data the prompt is based on."
+      },
+      {
+        "id": 32,
+        "name": "use_case_scenarios",
+        "type": "array",
+        "description": "Possible scenarios or use cases for the prompt."
+      },
+      {
+        "id": 33,
+        "name": "output_tone",
+        "type": "string",
+        "description": "The tone or style expected in the output generated from the prompt."
+      },
+      {
+        "id": 34,
+        "name": "access_permissions",
+        "type": "string",
+        "description": "Who has access or permission to use the prompt."
+      },
+      {
+        "id": 35,
+        "name": "feedback_mechanism",
+        "type": "text",
+        "description": "How feedback is collected and used for the prompt."
+      },
+      {
+        "id": 36,
+        "name": "customization_options",
+        "type": "text",
+        "description": "Options available for customizing the prompt."
+      },
+      {
+        "id": 37,
+        "name": "api_integration",
+        "type": "string",
+        "description": "Details of API integration, if the prompt is accessible via an API."
+      },
+      {
+        "id": 38,
+        "name": "security_requirements",
+        "type": "text",
+        "description": "Security measures or requirements for using the prompt."
+      },
+      {
+        "id": 39,
+        "name": "maintenance_schedule",
+        "type": "string",
+        "description": "Schedule for maintaining or updating the prompt."
+      },
+      {
+        "id": 40,
+        "name": "prompt_expiry",
+        "type": "date",
+        "description": "The date when the prompt becomes obsolete or should be reviewed."
+      },
+      {
+        "id": 41,
+        "name": "usage_restrictions",
+        "type": "text",
+        "description": "Restrictions on how the prompt can be used."
+      },
+      {
+        "id": 42,
+        "name": "language_model",
+        "type": "string",
+        "description": "The specific language model the prompt is designed to work with."
+      },
+      {
+        "id": 43,
+        "name": "prompt_complexity",
+        "type": "string",
+        "description": "The complexity level of the prompt, e.g., simple, moderate, complex."
+      },
+      {
+        "id": 44,
+        "name": "training_epoch",
+        "type": "integer",
+        "description": "The training epoch or iteration relevant to the prompt."
+      },
+      {
+        "id": 45,
+        "name": "regional_settings",
+        "type": "string",
+        "description": "Any regional or locale-specific settings related to the prompt."
+      },
+      {
+        "id": 46,
+        "name": "industry_focus",
+        "type": "string",
+        "description": "The industry or sector the prompt is tailored for."
+      },
+      {
+        "id": 47,
+        "name": "licensing_info",
+        "type": "text",
+        "description": "Licensing or copyright information related to the prompt."
+      },
+      {
+        "id": 48,
+        "name": "performance_metrics",
+        "type": "array",
+        "description": "Metrics for evaluating the performance of the prompt."
+        }
+    ]
+    }
+}   

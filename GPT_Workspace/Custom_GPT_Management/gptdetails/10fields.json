@@ -1,0 +1,67 @@
+{
+    "gpt_metadata": {
+      "fields": [
+        {
+          "id": 1,
+          "name": "gpt_name",
+          "type": "string",
+          "description": "The name or title of the custom GPT."
+        },
+        {
+          "id": 2,
+          "name": "category",
+          "type": "string",
+          "description": "The main category under which the GPT falls, e.g., Art & Design, Business & Finance."
+        },
+        {
+          "id": 3,
+          "name": "subcategory",
+          "type": "string",
+          "description": "The specific subcategory for more granular classification, e.g., Graphic Design, Investing."
+        },
+        {
+          "id": 4,
+          "name": "description",
+          "type": "text",
+          "description": "A brief description of the custom GPT's purpose and functionality."
+        },
+        {
+          "id": 5,
+          "name": "created_date",
+          "type": "date",
+          "description": "The date when the custom GPT was created."
+        },
+        {
+          "id": 6,
+          "name": "last_modified_date",
+          "type": "date",
+          "description": "The date when the custom GPT was last modified or updated."
+        },
+        {
+          "id": 7,
+          "name": "status",
+          "type": "string",
+          "description": "The current status of the custom GPT, e.g., Active, Inactive, Archived."
+        },
+        {
+          "id": 8,
+          "name": "version",
+          "type": "string",
+          "description": "The version number of the custom GPT, indicating updates or revisions."
+        },
+        {
+          "id": 9,
+          "name": "tags",
+          "type": "array",
+          "description": "An array of tags or keywords associated with the custom GPT for easy searching and filtering."
+        },
+        {
+          "id": 10,
+          "name": "author",
+          "type": "string",
+          "description": "The name of the person or team who created the custom GPT."
+        }
+      ]
+    }
+  }
+  
